@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+:root{
+    --paper:#f3f3f3;
+    --paper-2:#e6f2ff; 
+    --ink:#282828;
+    --ink-soft:#5F625C;
+    --header-bg:#4898EE;
+    --header-text:#FEFFEC;
+    --accent:#4898EE;
+    --accent-2:#A9D3FF;
+    --line:#D7E5EA;
+    --card-bg:#f5faff;
+    --radius:2px;
+  }
+  
