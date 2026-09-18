@@ -849,6 +849,15 @@ footer {
     gap: 10px;
 }
 
+.skill-card .work-link {
+    margin-top: 0;
+    margin-bottom: 7px;
+}
+
+.skill-card .work-link span:hover{
+    background: #7ebcff;
+}
+
 /* media */
 
 
