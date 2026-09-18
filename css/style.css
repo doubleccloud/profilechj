@@ -860,8 +860,6 @@ footer {
 
 /* media */
 
-
-
 @media (max-width: 768px) {
   .about {
     grid-template-columns: 1fr;
